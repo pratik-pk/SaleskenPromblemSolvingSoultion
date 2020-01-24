@@ -10,6 +10,7 @@ for better understanding I stored all the three column as
 
 Problem 2 solution code
 Sentence_similarity_Problem.ipynb
+I removed the glove embedding file ad it was of size more than 1GB
 
 
 
